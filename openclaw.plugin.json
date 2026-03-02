@@ -1,0 +1,12 @@
+{
+  "id": "a-share-monitor",
+  "version": "1.0.0",
+  "name": "A股智能盯盘助手",
+  "description": "监控A股个股行情，自动检测均线交叉、MACD、KDJ、RSI、布林带、成交量异动、K线形态等经典技术分析信号，生成结构化盯盘报告",
+  "skills": ["./"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
