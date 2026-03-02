@@ -1,0 +1,8 @@
+{
+  "id": "xhs-publisher",
+  "name": "小红书自动发布",
+  "version": "0.1.0",
+  "description": "小红书内容创作、图片卡片渲染、自动发布一站式工具",
+  "skills": ["xhs-publisher"],
+  "author": "mi"
+}

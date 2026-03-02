@@ -1,0 +1,11 @@
+# xhs-publisher
+
+.venv/
+output/
+__pycache__/
+*.pyc
+.env
+/tmp/
+*.egg-info/
+__pycache__/
+tmp/
